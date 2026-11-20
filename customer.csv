@@ -1,0 +1,104 @@
+CustomerID,Name,Age,Gender,Annual_Income,Signup_Date,State
+1001, EVE   Brown ,75.0,female,-29165,03/06/2026,GA
+1008, eve   Smith ,35.0,M,125072,13-Jan-2026,CO
+1001, HANK   Rodriguez ,36.0,male,"$117,349.00",2026-04-09,FL
+1004, HANK   Garcia ,62.0,female,47431,03/01/2026,WA
+1005, ALICE   Garcia ,,male,"$90,435.00",02/28/2026,FL
+1006, jack   Miller ,26.0,,nan,01/07/2026,TX
+1007, BOB   Miller ,53.0,Male,"$40,014.00",04-Feb-2026,NY
+1008, alice   Jones ,24.0, FEMALE ,91540,2026-04-08,CO
+1009, FRANK   Jones ,23.0,female,"$131,957.00",2026/04/09,ga 
+1009, grace   Brown ,63.0, FEMALE ,"$113,039.00",03/08/2026,fl 
+1001, ivy   Brown ,,Male,"$-143,675.00",2026/03/07,FL
+1010, hank   Brown ,24.0,MALE,"$78,883.00",2026-03-28,CA
+1013, DIANA   Brown ,35.0,,"$146,014.00",2026-03-12,NY
+1014, GRACE   Davis ,28.0,MALE,nan,2026/02/19,IL
+1009, HANK   Williams ,65.0,Male,"$32,492.00",2026-03-09,tx 
+1002, DIANA   Miller ,56.0,Male,"$79,948.00",02/10/2026,WA
+1017, EVE   Davis ,47.0,female,nan,01/28/2026,WA
+1018, EVE   Williams ,69.0,Male,"$97,692.00",2026-01-18,ga 
+1005, DIANA   Garcia ,49.0, FEMALE ,"$135,900.00",invalid_date,WA
+1020, hank   Rodriguez ,74.0,M,"$134,392.00",25-Feb-2026,WA
+1021, diana   Brown ,73.0,MALE,"$123,235.00",01/21/2026,ma 
+1022, DIANA   Jones ,20.0,,"$132,031.00",01/30/2026,MA
+1023, FRANK   Rodriguez ,19.0,female,"$59,237.00",invalid_date,CO
+1024, JACK   Rodriguez ,20.0,MALE,nan,03/10/2026,WA
+1006, frank   Johnson ,44.0,male,63752,03/27/2026,CO
+1007, ALICE   Jones ,59.0,male,"$82,954.00",2026-04-05,IL
+1027, bob   Brown ,19.0,Male,"$87,277.00",02/28/2026,MA
+1028, alice   Johnson ,62.0,,nan,2026-02-01,nc 
+1008, ivy   Rodriguez ,57.0,MALE,96810,03/02/2026,IL
+1030, DIANA   Jones ,39.0,male,35561,03/30/2026,NY
+1006, HANK   Miller ,67.0,Male,"$125,348.00",2026/02/15,MA
+1009, DIANA   Davis ,185.0,MALE,135166,2026/03/21,CO
+1033, grace   Williams ,38.0,F,"$69,236.00",2026/04/07,IL
+1034, ivy   Smith ,67.0,Male,"$149,467.00",03/21/2026,NC
+1035, hank   Jones ,65.0,female,46465,2026/01/04,MA
+1036, JACK   Brown ,56.0,female,"$99,177.00",2026-02-24,GA
+1037, HANK   Johnson ,47.0,M,"$121,180.00",2026/03/20,NC
+1038, frank   Brown ,,,"$85,910.00",invalid_date,wa 
+1039, EVE   Garcia ,53.0,Male,"$50,042.00",03/04/2026,NC
+1040, ALICE   Johnson ,60.0,male,"$94,588.00",2026/03/12,IL
+1041, DIANA   Garcia ,29.0,F,"$88,464.00",08-Apr-2026,NY
+1042, FRANK   Williams ,20.0,Male,"$116,411.00",2026-04-07,CO
+1043, frank   Williams ,25.0,female,"$34,710.00",20-Jan-2026,NY
+1002, grace   Martinez ,42.0,,"$63,974.00",2026-02-09,CO
+1045, diana   Jones ,22.0,M,nan,2026/02/27,il 
+1005, EVE   Davis ,68.0,F,96376,2026-02-04,ca 
+1005, JACK   Jones ,43.0, FEMALE ,"$89,722.00",25-Feb-2026,ca 
+1010, alice   Jones ,51.0,,"$48,788.00",2026/03/04,WA
+1006, BOB   Williams ,43.0,Male,66224,2026-04-09,GA
+1050, ivy   Garcia ,21.0,F,"$42,172.00",2026-03-31,CO
+1051, ivy   Smith ,,female,40396,02-Apr-2026,MA
+1052, HANK   Rodriguez ,65.0,M,"$61,208.00",13-Feb-2026,CA
+1005, jack   Davis ,39.0,MALE,"$67,176.00",01/31/2026,ma 
+1008, grace   Miller ,27.0,,"$41,547.00",2026/01/13,NY
+1055, charlie   Miller ,68.0, FEMALE ,115794,2026/02/12,WA
+1008, ALICE   Martinez ,32.0,female,"$37,903.00",13-Jan-2026,ca 
+1057, FRANK   Garcia ,61.0,M,"$35,350.00",03/29/2026,FL
+1058, eve   Smith ,52.0,M,nan,14-Feb-2026,MA
+1059, diana   Miller ,,MALE,"$100,341.00",2026/01/03,il 
+1001, hank   Jones ,32.0,F,"$113,835.00",2026-03-29,CA
+1061, jack   Garcia ,, FEMALE ,79460,11-Mar-2026,GA
+1062, eve   Davis ,69.0,female,"$34,869.00",2026/03/28,GA
+1063, EVE   Rodriguez ,34.0,MALE,"$148,245.00",invalid_date,GA
+1064, bob   Davis ,26.0,Male,64893,01/31/2026,MA
+1065, jack   Williams ,57.0,MALE,"$-61,666.00",02/26/2026,wa 
+1006, FRANK   Smith ,72.0,,nan,2026-01-28,CA
+1067, JACK   Brown ,31.0,F,"$44,340.00",02/05/2026,TX
+1068, ALICE   Williams ,38.0,Male,"$31,868.00",2026/01/15,NC
+1009, bob   Davis ,200.0, FEMALE ,"$29,082.00",2026-02-21,NC
+1070, bob   Garcia ,, FEMALE ,"$101,724.00",2026/03/18,GA
+1002, bob   Rodriguez ,32.0,MALE,"$84,441.00",10-Feb-2026,WA
+1072, BOB   Johnson ,,male,"$97,924.00",2026-03-13,MA
+1007, alice   Jones ,31.0,M,"$54,392.00",13-Mar-2026,CO
+1007, jack   Martinez ,60.0, FEMALE ,nan,04-Feb-2026,WA
+1075, JACK   Miller ,23.0,F,"$84,460.00",2026-04-03,ca 
+1076, BOB   Jones ,44.0, FEMALE ,"$92,154.00",2026/02/06,GA
+1077, GRACE   Martinez ,67.0,M,62938,04/06/2026,MA
+1004, IVY   Garcia ,-5.0,,"$137,998.00",2026/02/21,il 
+1079, CHARLIE   Martinez ,45.0,female,102184,02/09/2026,WA
+1002, bob   Rodriguez ,64.0,M,44194,2026-01-20,TX
+1081, JACK   Martinez ,58.0,male,"$107,210.00",02-Mar-2026,IL
+1006, BOB   Jones ,,male,"$35,057.00",2026/01/12,NC
+1083, JACK   Brown ,21.0,,"$142,850.00",01/11/2026,CA
+1084, ivy   Rodriguez ,42.0,MALE,"$113,984.00",24-Mar-2026,NY
+1085, eve   Martinez ,27.0,male,"$110,990.00",2026-03-18,IL
+1086, ivy   Johnson ,41.0, FEMALE ,"$53,074.00",01/25/2026,tx 
+1002, IVY   Rodriguez ,26.0,MALE,"$48,703.00",2026-01-22,MA
+1088, jack   Jones ,33.0, FEMALE ,"$127,808.00",2026/02/17,NC
+1007, ivy   Miller ,26.0, FEMALE ,nan,2026-03-03,GA
+1090, CHARLIE   Jones ,23.0,F,140950,07-Jan-2026,FL
+1091, DIANA   Smith ,,male,"$-43,035.00",03/02/2026,NC
+1092, ALICE   Jones ,56.0,MALE,62762,2026/01/31,ny 
+1008, ivy   Smith ,36.0,MALE,nan,2026/02/15,TX
+1002, frank   Johnson ,50.0,Male,"$-86,621.00",2026-02-17,WA
+1095, bob   Martinez ,200.0,male,"$47,949.00",03/31/2026,tx 
+1096, EVE   Brown ,185.0,MALE,96176,24-Mar-2026,CA
+1097, BOB   Garcia ,42.0,male,"$90,038.00",2026-03-08,ma 
+1098, IVY   Jones ,, FEMALE ,103986,2026-02-26,WA
+1099, alice   Johnson ,65.0,M,"$43,714.00",invalid_date,NY
+1100, GRACE   Martinez ,41.0,male,"$35,077.00",20-Feb-2026,FL
+1006, jack   Miller ,26.0,,nan,01/07/2026,TX
+1013, DIANA   Brown ,35.0,,"$146,014.00",2026-03-12,NY
+1007, ALICE   Jones ,59.0,male,"$82,954.00",2026-04-05,IL
